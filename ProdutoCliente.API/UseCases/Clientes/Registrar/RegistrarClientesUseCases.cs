@@ -11,6 +11,11 @@ namespace ProdutoCliente.API.UseCases.Clientes.Registrar
             var validador = new RegistrarClientesValidador();
 
             var result = validador.Validate(requisicao);
+
+            if(result.IsValid== false)
+            {
+                throw new ArgumentException("Erro nos dados recebidos");    
+            }
             return new RespostaClienteJson();
         }
     }

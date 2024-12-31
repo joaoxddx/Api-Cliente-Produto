@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "D:\\Projetos\\ProdutoCliente\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{63C703B6-C36D-4E5F-97A7-86BB2B7082BA}|ProdutoCliente.API\\ProdutoCliente.API.csproj|d:\\projetos\\produtocliente\\produtocliente.api\\usecases\\clientes\\registrar\\registrarclientesvalidador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{63C703B6-C36D-4E5F-97A7-86BB2B7082BA}|ProdutoCliente.API\\ProdutoCliente.API.csproj|solutionrelative:produtocliente.api\\usecases\\clientes\\registrar\\registrarclientesvalidador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{63C703B6-C36D-4E5F-97A7-86BB2B7082BA}|ProdutoCliente.API\\ProdutoCliente.API.csproj|d:\\projetos\\produtocliente\\produtocliente.api\\usecases\\clientes\\registrar\\registrarclientesusecases.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{63C703B6-C36D-4E5F-97A7-86BB2B7082BA}|ProdutoCliente.API\\ProdutoCliente.API.csproj|solutionrelative:produtocliente.api\\usecases\\clientes\\registrar\\registrarclientesusecases.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AF865341-AF61-4173-B8C9-DC42C3873665}|ProdutoCliente.Communication\\ProdutoCliente.Communication.csproj|d:\\projetos\\produtocliente\\produtocliente.communication\\respostas\\responseerromensagensjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF865341-AF61-4173-B8C9-DC42C3873665}|ProdutoCliente.Communication\\ProdutoCliente.Communication.csproj|solutionrelative:produtocliente.communication\\respostas\\responseerromensagensjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{63C703B6-C36D-4E5F-97A7-86BB2B7082BA}|ProdutoCliente.API\\ProdutoCliente.API.csproj|d:\\projetos\\produtocliente\\produtocliente.api\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{63C703B6-C36D-4E5F-97A7-86BB2B7082BA}|ProdutoCliente.API\\ProdutoCliente.API.csproj|solutionrelative:produtocliente.api\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63C703B6-C36D-4E5F-97A7-86BB2B7082BA}|ProdutoCliente.API\\ProdutoCliente.API.csproj|d:\\projetos\\produtocliente\\produtocliente.api\\usecases\\clientes\\registrar\\registrarclientesusecases.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63C703B6-C36D-4E5F-97A7-86BB2B7082BA}|ProdutoCliente.API\\ProdutoCliente.API.csproj|solutionrelative:produtocliente.api\\usecases\\clientes\\registrar\\registrarclientesusecases.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AF865341-AF61-4173-B8C9-DC42C3873665}|ProdutoCliente.Communication\\ProdutoCliente.Communication.csproj|d:\\projetos\\produtocliente\\produtocliente.communication\\respostas\\respostaclientejson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -21,6 +21,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{AF865341-AF61-4173-B8C9-DC42C3873665}|ProdutoCliente.Communication\\ProdutoCliente.Communication.csproj|d:\\projetos\\produtocliente\\produtocliente.communication\\requisi\u00E7\u00E3o\\requisicaoclientejson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AF865341-AF61-4173-B8C9-DC42C3873665}|ProdutoCliente.Communication\\ProdutoCliente.Communication.csproj|solutionrelative:produtocliente.communication\\requisi\u00E7\u00E3o\\requisicaoclientejson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63C703B6-C36D-4E5F-97A7-86BB2B7082BA}|ProdutoCliente.API\\ProdutoCliente.API.csproj|d:\\projetos\\produtocliente\\produtocliente.api\\usecases\\clientes\\registrar\\registrarclientesvalidador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63C703B6-C36D-4E5F-97A7-86BB2B7082BA}|ProdutoCliente.API\\ProdutoCliente.API.csproj|solutionrelative:produtocliente.api\\usecases\\clientes\\registrar\\registrarclientesvalidador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,28 +39,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "RegistrarClientesValidador.cs",
-              "DocumentMoniker": "D:\\Projetos\\ProdutoCliente\\ProdutoCliente.API\\UseCases\\Clientes\\Registrar\\RegistrarClientesValidador.cs",
-              "RelativeDocumentMoniker": "ProdutoCliente.API\\UseCases\\Clientes\\Registrar\\RegistrarClientesValidador.cs",
-              "ToolTip": "D:\\Projetos\\ProdutoCliente\\ProdutoCliente.API\\UseCases\\Clientes\\Registrar\\RegistrarClientesValidador.cs",
-              "RelativeToolTip": "ProdutoCliente.API\\UseCases\\Clientes\\Registrar\\RegistrarClientesValidador.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Title": "ResponseErroMensagensJson.cs",
+              "DocumentMoniker": "D:\\Projetos\\ProdutoCliente\\ProdutoCliente.Communication\\Respostas\\ResponseErroMensagensJson.cs",
+              "RelativeDocumentMoniker": "ProdutoCliente.Communication\\Respostas\\ResponseErroMensagensJson.cs",
+              "ToolTip": "D:\\Projetos\\ProdutoCliente\\ProdutoCliente.Communication\\Respostas\\ResponseErroMensagensJson.cs",
+              "RelativeToolTip": "ProdutoCliente.Communication\\Respostas\\ResponseErroMensagensJson.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-31T16:06:47.722Z",
+              "WhenOpened": "2024-12-31T17:44:32.446Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "RegistrarClientesUseCases.cs",
               "DocumentMoniker": "D:\\Projetos\\ProdutoCliente\\ProdutoCliente.API\\UseCases\\Clientes\\Registrar\\RegistrarClientesUseCases.cs",
               "RelativeDocumentMoniker": "ProdutoCliente.API\\UseCases\\Clientes\\Registrar\\RegistrarClientesUseCases.cs",
               "ToolTip": "D:\\Projetos\\ProdutoCliente\\ProdutoCliente.API\\UseCases\\Clientes\\Registrar\\RegistrarClientesUseCases.cs",
               "RelativeToolTip": "ProdutoCliente.API\\UseCases\\Clientes\\Registrar\\RegistrarClientesUseCases.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-31T15:43:56.193Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-31T15:43:56.193Z"
             },
             {
               "$type": "Document",
@@ -68,8 +71,7 @@
               "RelativeToolTip": "ProdutoCliente.Communication\\Respostas\\RespostaClienteJson.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-31T15:14:05.433Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-31T15:14:05.433Z"
             },
             {
               "$type": "Document",
@@ -81,21 +83,31 @@
               "RelativeToolTip": "ProdutoCliente.Communication\\Requisi\u00E7\u00E3o\\RequisicaoClienteJson.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAB8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-31T15:06:43.59Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-31T15:06:43.59Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "ClientesController.cs",
               "DocumentMoniker": "D:\\Projetos\\ProdutoCliente\\ProdutoCliente.API\\Controllers\\ClientesController.cs",
               "RelativeDocumentMoniker": "ProdutoCliente.API\\Controllers\\ClientesController.cs",
               "ToolTip": "D:\\Projetos\\ProdutoCliente\\ProdutoCliente.API\\Controllers\\ClientesController.cs",
               "RelativeToolTip": "ProdutoCliente.API\\Controllers\\ClientesController.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAAABAAAAA4AAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAAcwB8AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-28T18:08:06.025Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-28T18:08:06.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RegistrarClientesValidador.cs",
+              "DocumentMoniker": "D:\\Projetos\\ProdutoCliente\\ProdutoCliente.API\\UseCases\\Clientes\\Registrar\\RegistrarClientesValidador.cs",
+              "RelativeDocumentMoniker": "ProdutoCliente.API\\UseCases\\Clientes\\Registrar\\RegistrarClientesValidador.cs",
+              "ToolTip": "D:\\Projetos\\ProdutoCliente\\ProdutoCliente.API\\UseCases\\Clientes\\Registrar\\RegistrarClientesValidador.cs",
+              "RelativeToolTip": "ProdutoCliente.API\\UseCases\\Clientes\\Registrar\\RegistrarClientesValidador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T16:06:47.722Z"
             }
           ]
         }

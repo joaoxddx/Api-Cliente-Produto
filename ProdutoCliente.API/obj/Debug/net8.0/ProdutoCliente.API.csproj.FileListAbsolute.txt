@@ -38,3 +38,5 @@ D:\Projetos\ProdutoCliente\ProdutoCliente.API\obj\Debug\net8.0\refint\ProdutoCli
 D:\Projetos\ProdutoCliente\ProdutoCliente.API\obj\Debug\net8.0\ProdutoCliente.API.pdb
 D:\Projetos\ProdutoCliente\ProdutoCliente.API\obj\Debug\net8.0\ProdutoCliente.API.genruntimeconfig.cache
 D:\Projetos\ProdutoCliente\ProdutoCliente.API\obj\Debug\net8.0\ref\ProdutoCliente.API.dll
+D:\Projetos\ProdutoCliente\ProdutoCliente.API\bin\Debug\net8.0\FluentValidation.dll
+D:\Projetos\ProdutoCliente\ProdutoCliente.API\obj\Debug\net8.0\ProdutoCliente.API.sourcelink.json

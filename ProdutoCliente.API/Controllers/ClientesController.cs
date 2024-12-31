@@ -11,11 +11,23 @@ namespace ProdutoCliente.API.Controllers
     {   
         [HttpPost]
         [ProducesResponseType(typeof(RespostaClienteJson), StatusCodes.Status201Created)]
+        [ProducesResponseType(typeof(ResponseErroMensagensJson), StatusCodes.Status400BadRequest)]
         public IActionResult Registrar([FromBody]RequisicaoClienteJson requisicao) 
         {
-            var useCase = new RegistrarClientesUseCases();
-            var response = useCase.Executar(requisicao);
-            return Created(string.Empty, requisicao);
+            try
+            {
+                var useCase = new RegistrarClientesUseCases();
+                var response = useCase.Executar(requisicao);
+                return Created(string.Empty, requisicao);
+            }
+            catch(ArgumentException ex)
+            {
+                return BadRequest(new ResponseErroMensagensJson(ex.Message));
+            }
+            catch
+            {
+                return StatusCode(StatusCodes.Status500InternalServerError, new ResponseErroMensagensJson("ERRO DESCONHECIDO"));
+            }
         
         }
         [HttpPut]
