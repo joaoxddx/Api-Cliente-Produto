@@ -1,0 +1,11 @@
+D:\Projetos\ProdutoCliente\ProdutoCliente.Communication\bin\Debug\net8.0\ProdutoCliente.Communication.deps.json
+D:\Projetos\ProdutoCliente\ProdutoCliente.Communication\bin\Debug\net8.0\ProdutoCliente.Communication.dll
+D:\Projetos\ProdutoCliente\ProdutoCliente.Communication\bin\Debug\net8.0\ProdutoCliente.Communication.pdb
+D:\Projetos\ProdutoCliente\ProdutoCliente.Communication\obj\Debug\net8.0\ProdutoCliente.Communication.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\ProdutoCliente\ProdutoCliente.Communication\obj\Debug\net8.0\ProdutoCliente.Communication.AssemblyInfoInputs.cache
+D:\Projetos\ProdutoCliente\ProdutoCliente.Communication\obj\Debug\net8.0\ProdutoCliente.Communication.AssemblyInfo.cs
+D:\Projetos\ProdutoCliente\ProdutoCliente.Communication\obj\Debug\net8.0\ProdutoCliente.Communication.csproj.CoreCompileInputs.cache
+D:\Projetos\ProdutoCliente\ProdutoCliente.Communication\obj\Debug\net8.0\ProdutoCliente.Communication.dll
+D:\Projetos\ProdutoCliente\ProdutoCliente.Communication\obj\Debug\net8.0\refint\ProdutoCliente.Communication.dll
+D:\Projetos\ProdutoCliente\ProdutoCliente.Communication\obj\Debug\net8.0\ProdutoCliente.Communication.pdb
+D:\Projetos\ProdutoCliente\ProdutoCliente.Communication\obj\Debug\net8.0\ref\ProdutoCliente.Communication.dll

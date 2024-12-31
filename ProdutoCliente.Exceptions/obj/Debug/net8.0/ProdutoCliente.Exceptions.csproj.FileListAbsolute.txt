@@ -1,0 +1,11 @@
+D:\Projetos\ProdutoCliente\ProdutoCliente.Exceptions\bin\Debug\net8.0\ProdutoCliente.Exceptions.deps.json
+D:\Projetos\ProdutoCliente\ProdutoCliente.Exceptions\bin\Debug\net8.0\ProdutoCliente.Exceptions.dll
+D:\Projetos\ProdutoCliente\ProdutoCliente.Exceptions\bin\Debug\net8.0\ProdutoCliente.Exceptions.pdb
+D:\Projetos\ProdutoCliente\ProdutoCliente.Exceptions\obj\Debug\net8.0\ProdutoCliente.Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\ProdutoCliente\ProdutoCliente.Exceptions\obj\Debug\net8.0\ProdutoCliente.Exceptions.AssemblyInfoInputs.cache
+D:\Projetos\ProdutoCliente\ProdutoCliente.Exceptions\obj\Debug\net8.0\ProdutoCliente.Exceptions.AssemblyInfo.cs
+D:\Projetos\ProdutoCliente\ProdutoCliente.Exceptions\obj\Debug\net8.0\ProdutoCliente.Exceptions.csproj.CoreCompileInputs.cache
+D:\Projetos\ProdutoCliente\ProdutoCliente.Exceptions\obj\Debug\net8.0\ProdutoCliente.Exceptions.dll
+D:\Projetos\ProdutoCliente\ProdutoCliente.Exceptions\obj\Debug\net8.0\refint\ProdutoCliente.Exceptions.dll
+D:\Projetos\ProdutoCliente\ProdutoCliente.Exceptions\obj\Debug\net8.0\ProdutoCliente.Exceptions.pdb
+D:\Projetos\ProdutoCliente\ProdutoCliente.Exceptions\obj\Debug\net8.0\ref\ProdutoCliente.Exceptions.dll
