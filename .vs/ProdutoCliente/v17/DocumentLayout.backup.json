@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projetos\\ProdutoCliente\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9D7DEC3E-EE99-4721-B5EF-957C1F4B3139}|ProdutoCliente.Exceptions\\ProdutoCliente.Exceptions.csproj|d:\\projetos\\produtocliente\\produtocliente.exceptions\\excess\u00F5esbase\\errovalidacaointernal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D7DEC3E-EE99-4721-B5EF-957C1F4B3139}|ProdutoCliente.Exceptions\\ProdutoCliente.Exceptions.csproj|solutionrelative:produtocliente.exceptions\\excess\u00F5esbase\\errovalidacaointernal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D7DEC3E-EE99-4721-B5EF-957C1F4B3139}|ProdutoCliente.Exceptions\\ProdutoCliente.Exceptions.csproj|d:\\projetos\\produtocliente\\produtocliente.exceptions\\excess\u00F5esbase\\clienteprodutohubexcessao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D7DEC3E-EE99-4721-B5EF-957C1F4B3139}|ProdutoCliente.Exceptions\\ProdutoCliente.Exceptions.csproj|solutionrelative:produtocliente.exceptions\\excess\u00F5esbase\\clienteprodutohubexcessao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63C703B6-C36D-4E5F-97A7-86BB2B7082BA}|ProdutoCliente.API\\ProdutoCliente.API.csproj|d:\\projetos\\produtocliente\\produtocliente.api\\usecases\\clientes\\registrar\\registrarclientesvalidador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63C703B6-C36D-4E5F-97A7-86BB2B7082BA}|ProdutoCliente.API\\ProdutoCliente.API.csproj|solutionrelative:produtocliente.api\\usecases\\clientes\\registrar\\registrarclientesvalidador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D7DEC3E-EE99-4721-B5EF-957C1F4B3139}|ProdutoCliente.Exceptions\\ProdutoCliente.Exceptions.csproj|d:\\projetos\\produtocliente\\produtocliente.exceptions\\produtocliente.exceptions.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9D7DEC3E-EE99-4721-B5EF-957C1F4B3139}|ProdutoCliente.Exceptions\\ProdutoCliente.Exceptions.csproj|solutionrelative:produtocliente.exceptions\\produtocliente.exceptions.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RegistrarClientesValidador.cs",
+              "DocumentMoniker": "D:\\Projetos\\ProdutoCliente\\ProdutoCliente.API\\UseCases\\Clientes\\Registrar\\RegistrarClientesValidador.cs",
+              "RelativeDocumentMoniker": "ProdutoCliente.API\\UseCases\\Clientes\\Registrar\\RegistrarClientesValidador.cs",
+              "ToolTip": "D:\\Projetos\\ProdutoCliente\\ProdutoCliente.API\\UseCases\\Clientes\\Registrar\\RegistrarClientesValidador.cs",
+              "RelativeToolTip": "ProdutoCliente.API\\UseCases\\Clientes\\Registrar\\RegistrarClientesValidador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T13:42:39.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ErroValidacaoInternal.cs",
+              "DocumentMoniker": "D:\\Projetos\\ProdutoCliente\\ProdutoCliente.Exceptions\\Excess\u00F5esBase\\ErroValidacaoInternal.cs",
+              "RelativeDocumentMoniker": "ProdutoCliente.Exceptions\\Excess\u00F5esBase\\ErroValidacaoInternal.cs",
+              "ToolTip": "D:\\Projetos\\ProdutoCliente\\ProdutoCliente.Exceptions\\Excess\u00F5esBase\\ErroValidacaoInternal.cs",
+              "RelativeToolTip": "ProdutoCliente.Exceptions\\Excess\u00F5esBase\\ErroValidacaoInternal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T13:05:51.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClienteProdutoHubExcessao.cs",
+              "DocumentMoniker": "D:\\Projetos\\ProdutoCliente\\ProdutoCliente.Exceptions\\Excess\u00F5esBase\\ClienteProdutoHubExcessao.cs",
+              "RelativeDocumentMoniker": "ProdutoCliente.Exceptions\\Excess\u00F5esBase\\ClienteProdutoHubExcessao.cs",
+              "ToolTip": "D:\\Projetos\\ProdutoCliente\\ProdutoCliente.Exceptions\\Excess\u00F5esBase\\ClienteProdutoHubExcessao.cs",
+              "RelativeToolTip": "ProdutoCliente.Exceptions\\Excess\u00F5esBase\\ClienteProdutoHubExcessao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T12:50:40.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProdutoCliente.Exceptions.csproj",
+              "DocumentMoniker": "D:\\Projetos\\ProdutoCliente\\ProdutoCliente.Exceptions\\ProdutoCliente.Exceptions.csproj",
+              "RelativeDocumentMoniker": "ProdutoCliente.Exceptions\\ProdutoCliente.Exceptions.csproj",
+              "ToolTip": "D:\\Projetos\\ProdutoCliente\\ProdutoCliente.Exceptions\\ProdutoCliente.Exceptions.csproj",
+              "RelativeToolTip": "ProdutoCliente.Exceptions\\ProdutoCliente.Exceptions.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-11T12:49:12.48Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -9,3 +9,4 @@ D:\Projetos\ProdutoCliente\ProdutoCliente.Exceptions\obj\Debug\net8.0\ProdutoCli
 D:\Projetos\ProdutoCliente\ProdutoCliente.Exceptions\obj\Debug\net8.0\refint\ProdutoCliente.Exceptions.dll
 D:\Projetos\ProdutoCliente\ProdutoCliente.Exceptions\obj\Debug\net8.0\ProdutoCliente.Exceptions.pdb
 D:\Projetos\ProdutoCliente\ProdutoCliente.Exceptions\obj\Debug\net8.0\ref\ProdutoCliente.Exceptions.dll
+D:\Projetos\ProdutoCliente\ProdutoCliente.Exceptions\obj\Debug\net8.0\ProdutoCliente.Exceptions.sourcelink.json

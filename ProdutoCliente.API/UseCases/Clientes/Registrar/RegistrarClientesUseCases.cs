@@ -1,5 +1,6 @@
 ﻿using ProdutoCliente.Communication.Requisição;
 using ProdutoCliente.Communication.Respostas;
+using ProdutoCliente.Exceptions.ExcessõesBase;
 
 namespace ProdutoCliente.API.UseCases.Clientes.Registrar
 {
@@ -14,7 +15,9 @@ namespace ProdutoCliente.API.UseCases.Clientes.Registrar
 
             if(result.IsValid== false)
             {
-                throw new ArgumentException("Erro nos dados recebidos");    
+                var errors = result.Errors.Select(failure => failure.ErrorMessage).ToList();
+
+                throw new ErroValidacaoInternal(errors);    
             }
             return new RespostaClienteJson();
         }

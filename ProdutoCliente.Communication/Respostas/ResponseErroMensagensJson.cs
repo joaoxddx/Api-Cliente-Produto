@@ -9,5 +9,10 @@
         {
             Erro = [mensagem];
         }
+        public ResponseErroMensagensJson(List<string> mensagens)
+        {
+            Erro = mensagens;
+        }
+
     }
 }

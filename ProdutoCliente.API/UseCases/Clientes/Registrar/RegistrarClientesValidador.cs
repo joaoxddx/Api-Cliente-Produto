@@ -1,4 +1,4 @@
-﻿using FluentValidation;
+﻿            using FluentValidation;
 using ProdutoCliente.Communication.Requisição;
 
 namespace ProdutoCliente.API.UseCases.Clientes.Registrar
