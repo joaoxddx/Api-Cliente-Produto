@@ -3,23 +3,51 @@
   "WorkspaceRootPath": "D:\\Projetos\\ProdutoCliente\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{63C703B6-C36D-4E5F-97A7-86BB2B7082BA}|ProdutoCliente.API\\ProdutoCliente.API.csproj|d:\\projetos\\produtocliente\\produtocliente.api\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63C703B6-C36D-4E5F-97A7-86BB2B7082BA}|ProdutoCliente.API\\ProdutoCliente.API.csproj|solutionrelative:produtocliente.api\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63C703B6-C36D-4E5F-97A7-86BB2B7082BA}|ProdutoCliente.API\\ProdutoCliente.API.csproj|d:\\projetos\\produtocliente\\produtocliente.api\\usecases\\clientes\\atualizar\\atualizarclienteusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63C703B6-C36D-4E5F-97A7-86BB2B7082BA}|ProdutoCliente.API\\ProdutoCliente.API.csproj|solutionrelative:produtocliente.api\\usecases\\clientes\\atualizar\\atualizarclienteusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{63C703B6-C36D-4E5F-97A7-86BB2B7082BA}|ProdutoCliente.API\\ProdutoCliente.API.csproj|d:\\projetos\\produtocliente\\produtocliente.api\\infraestrutura\\produtoclientecontextodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{63C703B6-C36D-4E5F-97A7-86BB2B7082BA}|ProdutoCliente.API\\ProdutoCliente.API.csproj|solutionrelative:produtocliente.api\\infraestrutura\\produtoclientecontextodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{63C703B6-C36D-4E5F-97A7-86BB2B7082BA}|ProdutoCliente.API\\ProdutoCliente.API.csproj|d:\\projetos\\produtocliente\\produtocliente.api\\usecases\\clientes\\registrar\\registrarclientesusecases.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{63C703B6-C36D-4E5F-97A7-86BB2B7082BA}|ProdutoCliente.API\\ProdutoCliente.API.csproj|solutionrelative:produtocliente.api\\usecases\\clientes\\registrar\\registrarclientesusecases.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9D7DEC3E-EE99-4721-B5EF-957C1F4B3139}|ProdutoCliente.Exceptions\\ProdutoCliente.Exceptions.csproj|d:\\projetos\\produtocliente\\produtocliente.exceptions\\excess\u00F5esbase\\naolocalizadoexcessao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D7DEC3E-EE99-4721-B5EF-957C1F4B3139}|ProdutoCliente.Exceptions\\ProdutoCliente.Exceptions.csproj|solutionrelative:produtocliente.exceptions\\excess\u00F5esbase\\naolocalizadoexcessao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{63C703B6-C36D-4E5F-97A7-86BB2B7082BA}|ProdutoCliente.API\\ProdutoCliente.API.csproj|d:\\projetos\\produtocliente\\produtocliente.api\\entidades\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{63C703B6-C36D-4E5F-97A7-86BB2B7082BA}|ProdutoCliente.API\\ProdutoCliente.API.csproj|solutionrelative:produtocliente.api\\entidades\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{63C703B6-C36D-4E5F-97A7-86BB2B7082BA}|ProdutoCliente.API\\ProdutoCliente.API.csproj|d:\\projetos\\produtocliente\\produtocliente.api\\entidades\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{63C703B6-C36D-4E5F-97A7-86BB2B7082BA}|ProdutoCliente.API\\ProdutoCliente.API.csproj|solutionrelative:produtocliente.api\\entidades\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{63C703B6-C36D-4E5F-97A7-86BB2B7082BA}|ProdutoCliente.API\\ProdutoCliente.API.csproj|d:\\projetos\\produtocliente\\produtocliente.api\\usecases\\clientes\\registrar\\registrarclientesusecases.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63C703B6-C36D-4E5F-97A7-86BB2B7082BA}|ProdutoCliente.API\\ProdutoCliente.API.csproj|solutionrelative:produtocliente.api\\usecases\\clientes\\registrar\\registrarclientesusecases.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63C703B6-C36D-4E5F-97A7-86BB2B7082BA}|ProdutoCliente.API\\ProdutoCliente.API.csproj|d:\\projetos\\produtocliente\\produtocliente.api\\usecases\\clientes\\validacao\\requisicaovalidacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63C703B6-C36D-4E5F-97A7-86BB2B7082BA}|ProdutoCliente.API\\ProdutoCliente.API.csproj|solutionrelative:produtocliente.api\\usecases\\clientes\\validacao\\requisicaovalidacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF865341-AF61-4173-B8C9-DC42C3873665}|ProdutoCliente.Communication\\ProdutoCliente.Communication.csproj|d:\\projetos\\produtocliente\\produtocliente.communication\\respostas\\respostatodosclientesjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF865341-AF61-4173-B8C9-DC42C3873665}|ProdutoCliente.Communication\\ProdutoCliente.Communication.csproj|solutionrelative:produtocliente.communication\\respostas\\respostatodosclientesjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF865341-AF61-4173-B8C9-DC42C3873665}|ProdutoCliente.Communication\\ProdutoCliente.Communication.csproj|d:\\projetos\\produtocliente\\produtocliente.communication\\respostas\\respostashortclientejson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF865341-AF61-4173-B8C9-DC42C3873665}|ProdutoCliente.Communication\\ProdutoCliente.Communication.csproj|solutionrelative:produtocliente.communication\\respostas\\respostashortclientejson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63C703B6-C36D-4E5F-97A7-86BB2B7082BA}|ProdutoCliente.API\\ProdutoCliente.API.csproj|d:\\projetos\\produtocliente\\produtocliente.api\\usecases\\clientes\\getall\\getallclientusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63C703B6-C36D-4E5F-97A7-86BB2B7082BA}|ProdutoCliente.API\\ProdutoCliente.API.csproj|solutionrelative:produtocliente.api\\usecases\\clientes\\getall\\getallclientusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jgome\\AppData\\Local\\SourceServer\\aef23196c38228cc8cd0ce591e74160ce0868df390daf55c2aadb56421e28fa7\\ProdutoCliente.API\\UseCases\\Clientes\\Registrar\\RegistrarClientesUseCases.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63C703B6-C36D-4E5F-97A7-86BB2B7082BA}|ProdutoCliente.API\\ProdutoCliente.API.csproj|d:\\projetos\\produtocliente\\produtocliente.api\\entidades\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63C703B6-C36D-4E5F-97A7-86BB2B7082BA}|ProdutoCliente.API\\ProdutoCliente.API.csproj|solutionrelative:produtocliente.api\\entidades\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -29,11 +57,115 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NaoLocalizadoExcessao.cs",
+              "DocumentMoniker": "D:\\Projetos\\ProdutoCliente\\ProdutoCliente.Exceptions\\Excess\u00F5esBase\\NaoLocalizadoExcessao.cs",
+              "RelativeDocumentMoniker": "ProdutoCliente.Exceptions\\Excess\u00F5esBase\\NaoLocalizadoExcessao.cs",
+              "ToolTip": "D:\\Projetos\\ProdutoCliente\\ProdutoCliente.Exceptions\\Excess\u00F5esBase\\NaoLocalizadoExcessao.cs",
+              "RelativeToolTip": "ProdutoCliente.Exceptions\\Excess\u00F5esBase\\NaoLocalizadoExcessao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T02:19:23.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RequisicaoValidacao.cs",
+              "DocumentMoniker": "D:\\Projetos\\ProdutoCliente\\ProdutoCliente.API\\UseCases\\Clientes\\Validacao\\RequisicaoValidacao.cs",
+              "RelativeDocumentMoniker": "ProdutoCliente.API\\UseCases\\Clientes\\Validacao\\RequisicaoValidacao.cs",
+              "ToolTip": "D:\\Projetos\\ProdutoCliente\\ProdutoCliente.API\\UseCases\\Clientes\\Validacao\\RequisicaoValidacao.cs",
+              "RelativeToolTip": "ProdutoCliente.API\\UseCases\\Clientes\\Validacao\\RequisicaoValidacao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T21:32:32.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AtualizarClienteUseCase.cs",
+              "DocumentMoniker": "D:\\Projetos\\ProdutoCliente\\ProdutoCliente.API\\UseCases\\Clientes\\Atualizar\\AtualizarClienteUseCase.cs",
+              "RelativeDocumentMoniker": "ProdutoCliente.API\\UseCases\\Clientes\\Atualizar\\AtualizarClienteUseCase.cs",
+              "ToolTip": "D:\\Projetos\\ProdutoCliente\\ProdutoCliente.API\\UseCases\\Clientes\\Atualizar\\AtualizarClienteUseCase.cs",
+              "RelativeToolTip": "ProdutoCliente.API\\UseCases\\Clientes\\Atualizar\\AtualizarClienteUseCase.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T21:24:30.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProdutoClienteContextoDb.cs",
+              "DocumentMoniker": "D:\\Projetos\\ProdutoCliente\\ProdutoCliente.API\\Infraestrutura\\ProdutoClienteContextoDb.cs",
+              "RelativeDocumentMoniker": "ProdutoCliente.API\\Infraestrutura\\ProdutoClienteContextoDb.cs",
+              "ToolTip": "D:\\Projetos\\ProdutoCliente\\ProdutoCliente.API\\Infraestrutura\\ProdutoClienteContextoDb.cs",
+              "RelativeToolTip": "ProdutoCliente.API\\Infraestrutura\\ProdutoClienteContextoDb.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T02:31:53.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RegistrarClientesUseCases.cs",
+              "DocumentMoniker": "D:\\Projetos\\ProdutoCliente\\ProdutoCliente.API\\UseCases\\Clientes\\Registrar\\RegistrarClientesUseCases.cs",
+              "RelativeDocumentMoniker": "ProdutoCliente.API\\UseCases\\Clientes\\Registrar\\RegistrarClientesUseCases.cs",
+              "ToolTip": "D:\\Projetos\\ProdutoCliente\\ProdutoCliente.API\\UseCases\\Clientes\\Registrar\\RegistrarClientesUseCases.cs",
+              "RelativeToolTip": "ProdutoCliente.API\\UseCases\\Clientes\\Registrar\\RegistrarClientesUseCases.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAgwCoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T02:45:06.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClientesController.cs",
+              "DocumentMoniker": "D:\\Projetos\\ProdutoCliente\\ProdutoCliente.API\\Controllers\\ClientesController.cs",
+              "RelativeDocumentMoniker": "ProdutoCliente.API\\Controllers\\ClientesController.cs",
+              "ToolTip": "D:\\Projetos\\ProdutoCliente\\ProdutoCliente.API\\Controllers\\ClientesController.cs",
+              "RelativeToolTip": "ProdutoCliente.API\\Controllers\\ClientesController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwDkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T21:11:54.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RespostaShortClienteJson.cs",
+              "DocumentMoniker": "D:\\Projetos\\ProdutoCliente\\ProdutoCliente.Communication\\Respostas\\RespostaShortClienteJson.cs",
+              "RelativeDocumentMoniker": "ProdutoCliente.Communication\\Respostas\\RespostaShortClienteJson.cs",
+              "ToolTip": "D:\\Projetos\\ProdutoCliente\\ProdutoCliente.Communication\\Respostas\\RespostaShortClienteJson.cs",
+              "RelativeToolTip": "ProdutoCliente.Communication\\Respostas\\RespostaShortClienteJson.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T21:04:31.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "D:\\Projetos\\ProdutoCliente\\ProdutoCliente.API\\Entidades\\Cliente.cs",
+              "RelativeDocumentMoniker": "ProdutoCliente.API\\Entidades\\Cliente.cs",
+              "ToolTip": "D:\\Projetos\\ProdutoCliente\\ProdutoCliente.API\\Entidades\\Cliente.cs",
+              "RelativeToolTip": "ProdutoCliente.API\\Entidades\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T13:44:56.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "RegistrarClientesUseCases.cs",
               "DocumentMoniker": "C:\\Users\\jgome\\AppData\\Local\\SourceServer\\aef23196c38228cc8cd0ce591e74160ce0868df390daf55c2aadb56421e28fa7\\ProdutoCliente.API\\UseCases\\Clientes\\Registrar\\RegistrarClientesUseCases.cs",
               "ToolTip": "C:\\Users\\jgome\\AppData\\Local\\SourceServer\\aef23196c38228cc8cd0ce591e74160ce0868df390daf55c2aadb56421e28fa7\\ProdutoCliente.API\\UseCases\\Clientes\\Registrar\\RegistrarClientesUseCases.cs [Somente Leitura]",
@@ -44,33 +176,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "RegistrarClientesUseCases.cs",
-              "DocumentMoniker": "D:\\Projetos\\ProdutoCliente\\ProdutoCliente.API\\UseCases\\Clientes\\Registrar\\RegistrarClientesUseCases.cs",
-              "RelativeDocumentMoniker": "ProdutoCliente.API\\UseCases\\Clientes\\Registrar\\RegistrarClientesUseCases.cs",
-              "ToolTip": "D:\\Projetos\\ProdutoCliente\\ProdutoCliente.API\\UseCases\\Clientes\\Registrar\\RegistrarClientesUseCases.cs",
-              "RelativeToolTip": "ProdutoCliente.API\\UseCases\\Clientes\\Registrar\\RegistrarClientesUseCases.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAA1wBoAAAAlAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "RespostaTodosClientesJson.cs",
+              "DocumentMoniker": "D:\\Projetos\\ProdutoCliente\\ProdutoCliente.Communication\\Respostas\\RespostaTodosClientesJson.cs",
+              "RelativeDocumentMoniker": "ProdutoCliente.Communication\\Respostas\\RespostaTodosClientesJson.cs",
+              "ToolTip": "D:\\Projetos\\ProdutoCliente\\ProdutoCliente.Communication\\Respostas\\RespostaTodosClientesJson.cs",
+              "RelativeToolTip": "ProdutoCliente.Communication\\Respostas\\RespostaTodosClientesJson.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-17T02:45:06.849Z",
+              "WhenOpened": "2025-01-25T21:05:52.329Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ProdutoClienteContextoDb.cs",
-              "DocumentMoniker": "D:\\Projetos\\ProdutoCliente\\ProdutoCliente.API\\Infraestrutura\\ProdutoClienteContextoDb.cs",
-              "RelativeDocumentMoniker": "ProdutoCliente.API\\Infraestrutura\\ProdutoClienteContextoDb.cs",
-              "ToolTip": "D:\\Projetos\\ProdutoCliente\\ProdutoCliente.API\\Infraestrutura\\ProdutoClienteContextoDb.cs",
-              "RelativeToolTip": "ProdutoCliente.API\\Infraestrutura\\ProdutoClienteContextoDb.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAAAA0AAAAyAAAAAAAAAA==",
+              "DocumentIndex": 9,
+              "Title": "GetAllClientUseCase.cs",
+              "DocumentMoniker": "D:\\Projetos\\ProdutoCliente\\ProdutoCliente.API\\UseCases\\Clientes\\GetAll\\GetAllClientUseCase.cs",
+              "RelativeDocumentMoniker": "ProdutoCliente.API\\UseCases\\Clientes\\GetAll\\GetAllClientUseCase.cs",
+              "ToolTip": "D:\\Projetos\\ProdutoCliente\\ProdutoCliente.API\\UseCases\\Clientes\\GetAll\\GetAllClientUseCase.cs",
+              "RelativeToolTip": "ProdutoCliente.API\\UseCases\\Clientes\\GetAll\\GetAllClientUseCase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-17T02:31:53.596Z",
+              "WhenOpened": "2025-01-25T20:59:34.006Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 11,
               "Title": "Produto.cs",
               "DocumentMoniker": "D:\\Projetos\\ProdutoCliente\\ProdutoCliente.API\\Entidades\\Produto.cs",
               "RelativeDocumentMoniker": "ProdutoCliente.API\\Entidades\\Produto.cs",
@@ -78,21 +210,7 @@
               "RelativeToolTip": "ProdutoCliente.API\\Entidades\\Produto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T13:46:57.137Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Cliente.cs",
-              "DocumentMoniker": "D:\\Projetos\\ProdutoCliente\\ProdutoCliente.API\\Entidades\\Cliente.cs",
-              "RelativeDocumentMoniker": "ProdutoCliente.API\\Entidades\\Cliente.cs",
-              "ToolTip": "D:\\Projetos\\ProdutoCliente\\ProdutoCliente.API\\Entidades\\Cliente.cs",
-              "RelativeToolTip": "ProdutoCliente.API\\Entidades\\Cliente.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T13:44:56.783Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-15T13:46:57.137Z"
             }
           ]
         }

@@ -3,12 +3,14 @@ using ProdutoCliente.Communication.Requisição;
 using ProdutoCliente.Communication.Respostas;
 using ProdutoCliente.API.Entidades;
 using ProdutoCliente.Exceptions.ExcessõesBase;
+using ProdutoCliente.API.UseCases.Clientes.Validacao;
+using FluentValidation;
 
 namespace ProdutoCliente.API.UseCases.Clientes.Registrar
 {
     public class RegistrarClientesUseCases
     {
-        public RespostaClienteJson Executar(RequisicaoClienteJson requisicao)
+        public RespostaShortClienteJson Executar(RequisicaoClienteJson requisicao)
         {  
             Validador(requisicao);
 
@@ -26,7 +28,7 @@ namespace ProdutoCliente.API.UseCases.Clientes.Registrar
             
             ContextoDb.SaveChanges();
 
-            return new RespostaClienteJson 
+            return new RespostaShortClienteJson 
             {
                 Nome = entity.Nome,
                 Id = entity.Id
@@ -34,17 +36,16 @@ namespace ProdutoCliente.API.UseCases.Clientes.Registrar
         }
         private void Validador(RequisicaoClienteJson requisicao)
         {
-            var validador = new RegistrarClientesValidador();
+            var validador = new RequisicaoValidacao();
 
             var result = validador.Validate(requisicao);
 
-            if (result.IsValid == false)
+            if (!result.IsValid)
             {
                 var errors = result.Errors.Select(failure => failure.ErrorMessage).ToList();
 
                 throw new ErroValidacaoInternal(errors);
             }
-
         }
 
     }

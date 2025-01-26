@@ -1,4 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using ProdutoCliente.API.UseCases.Clientes.Atualizar;
+using ProdutoCliente.API.UseCases.Clientes.GetAll;
 using ProdutoCliente.API.UseCases.Clientes.Registrar;
 using ProdutoCliente.Communication.Requisição;
 using ProdutoCliente.Communication.Respostas;
@@ -10,7 +12,7 @@ namespace ProdutoCliente.API.Controllers
     public class ClientesController : ControllerBase
     {   
         [HttpPost]
-        [ProducesResponseType(typeof(RespostaClienteJson), StatusCodes.Status201Created)]
+        [ProducesResponseType(typeof(RespostaShortClienteJson), StatusCodes.Status201Created)]
         [ProducesResponseType(typeof(ResponseErroMensagensJson), StatusCodes.Status400BadRequest)]
         public IActionResult Registrar([FromBody]RequisicaoClienteJson requisicao) 
         {
@@ -22,16 +24,34 @@ namespace ProdutoCliente.API.Controllers
         
         }
         [HttpPut]
-        public IActionResult Atualizar()
+        [Route("{id}")]
+        [ProducesResponseType(StatusCodes.Status200OK)]
+        [ProducesResponseType(typeof(ResponseErroMensagensJson), StatusCodes.Status404NotFound)]
+        public IActionResult Atualizar([FromRoute] Guid id, [FromBody] RequisicaoClienteJson requisicao)
         {
-            return Ok();
+            var UseCase = new AtualizarClienteUseCase();
+
+            UseCase.Executar(id, requisicao);
+
+            return NoContent();
 
         }
 
         [HttpGet]
+        [ProducesResponseType(typeof(RespostaTodosClientesJson), StatusCodes.Status200OK)]
+        [ProducesResponseType(StatusCodes.Status200OK)]
         public IActionResult ResgatarTodos()
         {
-            return Ok();
+
+            var useCase = new GetAllClientUseCase();
+
+            var response = useCase.Executar();
+
+            if (response.Clientes.Count == 0)
+            {
+                return NoContent();
+            }
+            return Ok(response);
 
         }
         [HttpGet]

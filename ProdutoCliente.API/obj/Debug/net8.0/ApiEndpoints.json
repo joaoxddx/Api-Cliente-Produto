@@ -15,7 +15,7 @@
     ],
     "ReturnTypes": [
       {
-        "Type": "ProdutoCliente.Communication.Respostas.RespostaClienteJson",
+        "Type": "ProdutoCliente.Communication.Respostas.RespostaShortClienteJson",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -36,23 +36,19 @@
   },
   {
     "ContainingType": "ProdutoCliente.API.Controllers.ClientesController",
-    "Method": "Atualizar",
-    "RelativePath": "api/Clientes",
-    "HttpMethod": "PUT",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [],
-    "ReturnTypes": []
-  },
-  {
-    "ContainingType": "ProdutoCliente.API.Controllers.ClientesController",
     "Method": "ResgatarTodos",
     "RelativePath": "api/Clientes",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
     "Parameters": [],
-    "ReturnTypes": []
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
   },
   {
     "ContainingType": "ProdutoCliente.API.Controllers.ClientesController",
@@ -63,6 +59,42 @@
     "Order": 0,
     "Parameters": [],
     "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProdutoCliente.API.Controllers.ClientesController",
+    "Method": "Atualizar",
+    "RelativePath": "api/Clientes/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "requisicao",
+        "Type": "ProdutoCliente.Communication.Requisi\u00E7\u00E3o.RequisicaoClienteJson",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      },
+      {
+        "Type": "ProdutoCliente.Communication.Respostas.ResponseErroMensagensJson",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 404
+      }
+    ]
   },
   {
     "ContainingType": "ProdutoCliente.API.Controllers.ClientesController",

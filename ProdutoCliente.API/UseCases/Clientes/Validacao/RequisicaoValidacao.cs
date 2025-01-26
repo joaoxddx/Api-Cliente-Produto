@@ -1,11 +1,11 @@
-﻿            using FluentValidation;
+﻿using FluentValidation;
 using ProdutoCliente.Communication.Requisição;
 
-namespace ProdutoCliente.API.UseCases.Clientes.Registrar
+namespace ProdutoCliente.API.UseCases.Clientes.Validacao
 {
-    public class RegistrarClientesValidador : AbstractValidator<RequisicaoClienteJson>
+    public class RequisicaoValidacao : AbstractValidator<RequisicaoClienteJson>
     {
-        public RegistrarClientesValidador()
+        public RequisicaoValidacao()
         {
             RuleFor(cliente => cliente.Nome).NotEmpty().WithMessage("O nome não pode ser Vazio")
                 .MinimumLength(3).WithMessage("No mínimo de 3 caracteres");
