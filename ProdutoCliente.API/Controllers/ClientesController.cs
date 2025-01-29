@@ -27,6 +27,7 @@ namespace ProdutoCliente.API.Controllers
         [Route("{id}")]
         [ProducesResponseType(StatusCodes.Status200OK)]
         [ProducesResponseType(typeof(ResponseErroMensagensJson), StatusCodes.Status404NotFound)]
+        [ProducesResponseType(typeof(ResponseErroMensagensJson), StatusCodes.Status400BadRequest)]
         public IActionResult Atualizar([FromRoute] Guid id, [FromBody] RequisicaoClienteJson requisicao)
         {
             var UseCase = new AtualizarClienteUseCase();

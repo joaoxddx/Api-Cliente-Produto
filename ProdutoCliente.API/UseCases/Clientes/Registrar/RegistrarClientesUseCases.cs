@@ -3,7 +3,7 @@ using ProdutoCliente.Communication.Requisição;
 using ProdutoCliente.Communication.Respostas;
 using ProdutoCliente.API.Entidades;
 using ProdutoCliente.Exceptions.ExcessõesBase;
-using ProdutoCliente.API.UseCases.Clientes.Validacao;
+using ProdutoCliente.API.UseCases.Clientes.ValidacaoCliente;
 using FluentValidation;
 
 namespace ProdutoCliente.API.UseCases.Clientes.Registrar

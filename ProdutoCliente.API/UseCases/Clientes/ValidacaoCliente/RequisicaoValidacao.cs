@@ -1,7 +1,7 @@
 ﻿using FluentValidation;
 using ProdutoCliente.Communication.Requisição;
 
-namespace ProdutoCliente.API.UseCases.Clientes.Validacao
+namespace ProdutoCliente.API.UseCases.Clientes.ValidacaoCliente
 {
     public class RequisicaoValidacao : AbstractValidator<RequisicaoClienteJson>
     {
