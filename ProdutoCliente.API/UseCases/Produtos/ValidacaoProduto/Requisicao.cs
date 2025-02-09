@@ -12,7 +12,7 @@ namespace ProdutoCliente.API.UseCases.Produtos.ValidacaoProduto
 
                 RuleFor(Produto => Produto.Marca).NotEmpty().WithMessage("A marca não pode ser em branco");
 
-            RuleFor(Produto => Produto.Preco).NotEmpty().WithMessage("O preço tem que ser maior que zero");
+                RuleFor(Produto => Produto.Preco).GreaterThan(0).NotEmpty().WithMessage("O preço tem que ser maior que zero");
             }
         }
     

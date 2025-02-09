@@ -1,5 +1,5 @@
 ﻿using ProdutoCliente.API.Infraestrutura;
-using ProdutoCliente.API.UseCases.Clientes.Validacao;
+using ProdutoCliente.API.UseCases.Clientes.ValidacaoCliente;
 using ProdutoCliente.Communication.Requisição;
 using ProdutoCliente.Exceptions.ExcessõesBase;
 

@@ -1,2 +1,1 @@
-Parei na etapa de criar as regras de negocio de produto. Continuar dessa parte
-Video min: 08:49
+indo para o video recuperando cliente por id

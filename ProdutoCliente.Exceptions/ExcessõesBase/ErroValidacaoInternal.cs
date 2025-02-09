@@ -13,6 +13,8 @@ namespace ProdutoCliente.Exceptions.ExcessõesBase
 
         }
 
+        public string Errors { get; set; }
+
         public override List<string> GetErrors()
         {
             return _errors;

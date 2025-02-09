@@ -52,16 +52,6 @@
   },
   {
     "ContainingType": "ProdutoCliente.API.Controllers.ClientesController",
-    "Method": "Delete",
-    "RelativePath": "api/Clientes",
-    "HttpMethod": "DELETE",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [],
-    "ReturnTypes": []
-  },
-  {
-    "ContainingType": "ProdutoCliente.API.Controllers.ClientesController",
     "Method": "Atualizar",
     "RelativePath": "api/Clientes/{id}",
     "HttpMethod": "PUT",
@@ -93,6 +83,15 @@
           "text/json"
         ],
         "StatusCode": 404
+      },
+      {
+        "Type": "ProdutoCliente.Communication.Respostas.ResponseErroMensagensJson",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 400
       }
     ]
   },
@@ -111,5 +110,126 @@
       }
     ],
     "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProdutoCliente.API.Controllers.ClientesController",
+    "Method": "Delete",
+    "RelativePath": "api/Clientes/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "clienteId",
+        "Type": "System.Guid",
+        "IsRequired": false
+      },
+      {
+        "Name": "id",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      },
+      {
+        "Type": "ProdutoCliente.Communication.Respostas.ResponseErroMensagensJson",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 404
+      }
+    ]
+  },
+  {
+    "ContainingType": "ProdutoCliente.API.Controllers.ProdutosController",
+    "Method": "Registrar",
+    "RelativePath": "api/Produtos/{ClienteId}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "requisicao",
+        "Type": "ProdutoCliente.Communication.Requisi\u00E7\u00E3o.RequisicaoProdutoJson",
+        "IsRequired": true
+      },
+      {
+        "Name": "ClienteId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "ProdutoCliente.Communication.Respostas.RespostaShortClienteJson",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 201
+      },
+      {
+        "Type": "ProdutoCliente.Communication.Respostas.ResponseErroMensagensJson",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 400
+      },
+      {
+        "Type": "ProdutoCliente.Exceptions.Excess\u00F5esBase.NaoLocalizadoExcessao",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 404
+      }
+    ]
+  },
+  {
+    "ContainingType": "ProdutoCliente.API.Controllers.ProdutosController",
+    "Method": "Delete",
+    "RelativePath": "api/Produtos/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "produtoId",
+        "Type": "System.Guid",
+        "IsRequired": false
+      },
+      {
+        "Name": "id",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      },
+      {
+        "Type": "ProdutoCliente.Communication.Respostas.ResponseErroMensagensJson",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 404
+      }
+    ]
   }
 ]
